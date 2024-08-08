@@ -7,7 +7,7 @@
   <img src="/images/tailwind.png" style="height: 60px;" />
   <img src="/images/express.png" style="height: 60px;" />
   <img src="/images/prisma.png" style="height: 60px;" />
-  <img src="/images/docker.png" style="height: 60px;" />
+  <img src="/images/docker.svg" style="height: 60px;" />
 </div>
 
 ---
