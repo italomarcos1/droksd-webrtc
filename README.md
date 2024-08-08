@@ -25,8 +25,6 @@ O aplicativo replica as funcionalidades-padrão do Google Meet, um aplicativo de
 
 Além de transmitir vídeo e áudio, o WebRTC também é utilizado para transmitir mensagens (e imagens) pelo *chat*, e legendas (transcrição em tempo real) para os usuários da sala.
 
-Clique [aqui](https://www.youtube.com/watch?v=uH_MLSoBP_A) (vídeo de 40seg) para ver a demo do aplicativo.
-
 ---
 ### Funcionalidades:
 
